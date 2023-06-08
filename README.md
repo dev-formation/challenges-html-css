@@ -11,3 +11,4 @@ Happy coding !
 ## Challenges
 
 - [Challenge 1 - `<br> <hr>` - fiche contact ](./Challenge-1/)
+- [Challenge 2 - `<ol>` `<ul>` - recette ](./Challenge-2/)
