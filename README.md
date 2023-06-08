@@ -10,4 +10,4 @@ Happy coding !
 
 ## Challenges
 
-- [Challenge 1 - `<br> <hr>` - fiche contact ](./Challenges/Challenge-1/)
+- [Challenge 1 - `<br> <hr>` - fiche contact ](./Challenge-1/)
